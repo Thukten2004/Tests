@@ -1,1 +1,2 @@
 # Tests
+print("hello world")
